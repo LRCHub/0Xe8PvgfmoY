@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "UNITE",
+  "base_artist": "結束バンド",
+  "createdAt": "2026-02-17T05:52:02.631096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black and White Unite",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/01_Black_and_White_Unite_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black And White Unite",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/02_Black_And_White_Unite_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unite",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/03_Unite_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unite - Instrumental w/ Unite vocal",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/04_Unite_-_Instrumental_w__Unite_vocal_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite",
+      "artist": "Fischerspooner",
+      "has_synced": true,
+      "path": "select/05_Infidels_of_the_World_Unite_Fischerspooner.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - Gooseflesh Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/06_Infidels_of_the_World_Unite_-_Gooseflesh_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - LA Riots Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/07_Infidels_of_the_World_Unite_-_LA_Riots_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - Mustard Pimp Remix",
+      "artist": "Fischerspooner",
+      "has_synced": true,
+      "path": "select/08_Infidels_of_the_World_Unite_-_Mustard_Pimp_Remix_Fischerspooner.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - Rynecologist Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/09_Infidels_of_the_World_Unite_-_Rynecologist_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - Shinichi Osawa Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/10_Infidels_of_the_World_Unite_-_Shinichi_Osawa_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Infidels of the World Unite - Villains Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/11_Infidels_of_the_World_Unite_-_Villains_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shoplifters of the World Unite",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/12_Shoplifters_of_the_World_Unite_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unite The Dead",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/13_Unite_The_Dead_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNITE",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_UNITE_結束バンド.txt"
+    }
+  ]
+}
